@@ -1,5 +1,4 @@
 import './App.scss'
-import { ArroeIcon } from './components/arrow-icon'
 import { Logo } from './components/logo'
 
 function App() {
@@ -18,16 +17,26 @@ function App() {
         <button>
           <div className="btn-face-white">
             Contact us
-            <ArroeIcon />
           </div>
           <div className="btn-face-purple">
             Contact us
-            <ArroeIcon />
           </div>
         </button>
 
       </header>
 
+      <div className="content-container">
+
+        <div className="heading">
+          <h2>Lets grow your</h2>
+          <h2>social presence.</h2>
+        </div>
+
+        <div className="bubble target">🎯</div>
+        <div className="bubble shop">🛍️</div>
+        <div className="bubble rocket">🚀</div>
+        <div className="bubble fire">🔥</div>
+      </div>
 
 
 
