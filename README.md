@@ -9,7 +9,7 @@ To run this project locally, please follow these steps:
 1. Clone the repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/Fernanda-Kipper/animated-form.git
+   https://github.com/ribbeiroana/animacoes_react.git
    ```
 
 2. Navigate to the project's directory:
